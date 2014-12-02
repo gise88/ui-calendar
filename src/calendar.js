@@ -102,7 +102,7 @@ angular.module('ui.calendar', [])
 						result.push(token);
 					}
 					
-					console.log("getTokens", result);
+					//console.log("getTokens", result);
 					
 					return result;
 				};
